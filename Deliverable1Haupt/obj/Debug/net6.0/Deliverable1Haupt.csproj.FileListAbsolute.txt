@@ -1,0 +1,15 @@
+C:\Users\Rob\source\repos\Deliverable1Haupt\Deliverable1Haupt\obj\Debug\net6.0\Deliverable1Haupt.csproj.AssemblyReference.cache
+C:\Users\Rob\source\repos\Deliverable1Haupt\Deliverable1Haupt\obj\Debug\net6.0\Deliverable1Haupt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rob\source\repos\Deliverable1Haupt\Deliverable1Haupt\obj\Debug\net6.0\Deliverable1Haupt.AssemblyInfoInputs.cache
+C:\Users\Rob\source\repos\Deliverable1Haupt\Deliverable1Haupt\obj\Debug\net6.0\Deliverable1Haupt.AssemblyInfo.cs
+C:\Users\Rob\source\repos\Deliverable1Haupt\Deliverable1Haupt\obj\Debug\net6.0\Deliverable1Haupt.csproj.CoreCompileInputs.cache
+C:\Users\Rob\source\repos\Deliverable1Haupt\Deliverable1Haupt\bin\Debug\net6.0\Deliverable1Haupt.exe
+C:\Users\Rob\source\repos\Deliverable1Haupt\Deliverable1Haupt\bin\Debug\net6.0\Deliverable1Haupt.deps.json
+C:\Users\Rob\source\repos\Deliverable1Haupt\Deliverable1Haupt\bin\Debug\net6.0\Deliverable1Haupt.runtimeconfig.json
+C:\Users\Rob\source\repos\Deliverable1Haupt\Deliverable1Haupt\bin\Debug\net6.0\Deliverable1Haupt.dll
+C:\Users\Rob\source\repos\Deliverable1Haupt\Deliverable1Haupt\bin\Debug\net6.0\Deliverable1Haupt.pdb
+C:\Users\Rob\source\repos\Deliverable1Haupt\Deliverable1Haupt\obj\Debug\net6.0\Deliverable1Haupt.dll
+C:\Users\Rob\source\repos\Deliverable1Haupt\Deliverable1Haupt\obj\Debug\net6.0\refint\Deliverable1Haupt.dll
+C:\Users\Rob\source\repos\Deliverable1Haupt\Deliverable1Haupt\obj\Debug\net6.0\Deliverable1Haupt.pdb
+C:\Users\Rob\source\repos\Deliverable1Haupt\Deliverable1Haupt\obj\Debug\net6.0\Deliverable1Haupt.genruntimeconfig.cache
+C:\Users\Rob\source\repos\Deliverable1Haupt\Deliverable1Haupt\obj\Debug\net6.0\ref\Deliverable1Haupt.dll
